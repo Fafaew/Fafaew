@@ -1,4 +1,9 @@
-<a href="#"><img width="50%" height="50%" align="center" src="https://i.imgur.com/kGiDHME.png" height="175px"/></a>
+<p align="center">
+<a href="#"><img width="50%" height="50%" src="https://i.imgur.com/kGiDHME.png" height="175px"/></a>
+</p>
+
+<br>
+<br>
 
 <h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafael!</h1>
 <h3 align="center">I'm Software Developer from Brazil, working with web development for over 2 years.</h3>
