@@ -60,8 +60,8 @@ Apart from coding, some other activities that i love to do:
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rafael-gomes-tregelas-bb6775138/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/fafaelgomes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/rafael-gomes-tregelas-bb6775138/"><img target="_blank" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/fafaelgomes"><img target="_blank" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
