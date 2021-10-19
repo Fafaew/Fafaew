@@ -25,13 +25,14 @@ Apart from coding, some other activities that i love to do:
 <br>
 
 ## 🚀 Technologies that i use:
-
-<p align="left"> 
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/80/000000/php-logo.png"/> </a>
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/officel/80/000000/react.png"/> </a>    
-</p>
+<div>
+  <p align="left"> 
+      <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/80/000000/php-logo.png"/> </a>
+      <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </a> 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> </a> 
+      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/officel/80/000000/react.png"/> </a>    
+  </p>
+</div>
 
 <br>
 
@@ -60,8 +61,8 @@ Apart from coding, some other activities that i love to do:
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rafael-gomes-tregelas-bb6775138/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/fafaelgomes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/rafael-gomes-tregelas-bb6775138/"><img target="_blank" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/fafaelgomes"><img target="_blank" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
