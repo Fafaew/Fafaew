@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<h1 align="center">Howdy <img cursor="none" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafael!</h1>
+<h1 align="center">Howdy <img alt="Gif waving hand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafael!</h1>
 <h3 align="center">I'm Software Developer from Brazil, working with web development for over 2 years.</h3>
 
 <br>
@@ -26,14 +26,24 @@ Apart from coding, some other activities that i love to do:
 
 ## 🚀 Technologies that i use:
 <div>
-  <p align="left"> 
-      <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/80/000000/php-logo.png"/> </a>
-      <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </a> 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> </a> 
-      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/officel/80/000000/react.png"/> </a>    
-  </p>
+      <img alt="Php logo" src="https://img.icons8.com/officel/80/000000/php-logo.png"/>
+      <img />
+      <img />
+      <img />
+      <img />
+      <img alt="NodeJS logo" src="https://img.icons8.com/color/80/000000/nodejs.png"/> 
+      <img />
+      <img />
+      <img />
+      <img alt="JavaScript Logo" src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> 
+      <img />
+      <img />
+      <img />
+      <img />
+      <img alt="React logo"  style="" src="https://img.icons8.com/officel/80/000000/react.png"/>    
 </div>
 
+<br>
 <br>
 
 <p align="center">
@@ -62,6 +72,8 @@ Apart from coding, some other activities that i love to do:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rafael-gomes-tregelas-bb6775138/"><img target="_blank" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<img/>
+<img/>
 <a href = "https://twitter.com/fafaelgomes"><img target="_blank" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
