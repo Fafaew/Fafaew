@@ -6,7 +6,7 @@
 <br>
 
 <h1 align="center">Howdy <img alt="Gif waving hand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafael!</h1>
-<h3 align="center">I'm Software Developer from Brazil, working with web development for over 2 years.</h3>
+<h3 align="center">I'm a Software Developer from Brazil, working with web development for over 2 years.</h3>
 
 <br>
 
